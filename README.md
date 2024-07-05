@@ -4,3 +4,8 @@ The Dice Game project is an interactive web-based game developed using HTML, CSS
 
 Output:
 
+![Screenshot 2024-07-05 200321](https://github.com/NaveenBurujula/Dice-Game/assets/168223373/716c5224-3d61-4ce1-bc6f-dabb5b0a05af)
+
+![Screenshot 2024-07-05 200431](https://github.com/NaveenBurujula/Dice-Game/assets/168223373/519dd648-d2dd-4387-8234-3878b882df50)
+
+![Screenshot 2024-07-05 200453](https://github.com/NaveenBurujula/Dice-Game/assets/168223373/28bb76f9-cde9-4f45-817c-acc60f9441e4)
